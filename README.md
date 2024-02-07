@@ -1,16 +1,38 @@
-### Hi there 👋
+# 👋 Greetings! My name is **Wang** 👋
+Welcome to my GitHub, where it works on my machine  ¯\\_(ツ)_/¯
 
-<!--
-**ywang0789/ywang0789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+📚 Just a struggling 2nd year Computer Science student. Pls send help.
 
-Here are some ideas to get you started:
+### Languages
+![image](https://img.shields.io/badge/PYTHON-%23333333?style=for-the-badge&logo=Python)
+![image](https://img.shields.io/badge/JAVASCRIPT-%23333333?style=for-the-badge&logo=Javascript)
+![image](https://img.shields.io/badge/C-%23333333?style=for-the-badge&logo=C&logoColor=blue)
+![image](https://img.shields.io/badge/C%2B%2B-%23333333?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![image](https://img.shields.io/badge/C%23-%23333333?style=for-the-badge&logo=csharp&logoColor=green)
+![image](https://img.shields.io/badge/MYSQL-%23333333?style=for-the-badge&logo=mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Frameworks
+![image](https://img.shields.io/badge/REACT%20NATIVE-%23333333?style=for-the-badge&logo=react)
+![image](https://img.shields.io/badge/EXPO-%23333333?style=for-the-badge&logo=expo)
+![image](https://img.shields.io/badge/PyQT5-%23333333?style=for-the-badge&logo=qt)
+
+
+### Technologies & Services
+![image](https://img.shields.io/badge/FIREBASE-%23333333?style=for-the-badge&logo=firebase)
+![image](https://img.shields.io/badge/OPENAI-%23333333?style=for-the-badge&logo=openai)
+![image](https://img.shields.io/badge/discord.py-%23333333?style=for-the-badge&logo=discord)
+
+
+### Testing Tools
+![image](https://img.shields.io/badge/APACHE%20JMETER-%23333333?style=for-the-badge&logo=apachejmeter)
+![image](https://img.shields.io/badge/SELENIUM-%23333333?style=for-the-badge&logo=selenium)
+![image](https://img.shields.io/badge/MSTEST-%23333333?style=for-the-badge&logo=microsoft)
+
+<details>
+<p>
+  <img src="https://github.com/ywang0789/ywang0789/blob/main/assets/cry.gif" width="32px">Please hire me, I'm poor<img src="https://github.com/ywang0789/ywang0789/blob/main/assets/cry.gif" width="32px">
+</p>
+</details>
+
