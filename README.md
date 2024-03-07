@@ -20,6 +20,7 @@ Welcome to my GitHub, where it works on my machine  ¯\\_(ツ)_/¯
 
 
 ### Technologies & Services
+![image](https://img.shields.io/badge/Docker-%23333333?style=for-the-badge&logo=docker)
 ![image](https://img.shields.io/badge/FIREBASE-%23333333?style=for-the-badge&logo=firebase)
 ![image](https://img.shields.io/badge/Google%20Compute%20Engine-%23333333?style=for-the-badge&logo=googlecloud)
 ![image](https://img.shields.io/badge/OPENAI-%23333333?style=for-the-badge&logo=openai)
