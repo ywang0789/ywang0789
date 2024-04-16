@@ -1,8 +1,10 @@
-# 👋 Greetings! My name is **Wang** 👋
-Welcome to my GitHub, where it works on my machine  ¯\\_(ツ)_/¯
+# 👋 Hello, My name is **Yao**! 👋
+Welcome to my GitHub!
+
+"It works on my machine"  ¯\\_(ツ)_/¯
 
 ## About Me
-📚 Just a struggling 2nd year Computer Science student. Pls send help.
+📚 Just another struggling Computer Science student. Pls send help.
 
 ### Languages
 ![image](https://img.shields.io/badge/PYTHON-%23333333?style=for-the-badge&logo=Python)
@@ -15,6 +17,7 @@ Welcome to my GitHub, where it works on my machine  ¯\\_(ツ)_/¯
 
 ### Frameworks
 ![image](https://img.shields.io/badge/REACT%20NATIVE-%23333333?style=for-the-badge&logo=react)
+![image](https://img.shields.io/badge/ASP.NET-%23333333?style=for-the-badge&logo=dotnet)
 ![image](https://img.shields.io/badge/EXPO-%23333333?style=for-the-badge&logo=expo)
 ![image](https://img.shields.io/badge/PyQT5-%23333333?style=for-the-badge&logo=qt)
 
@@ -34,7 +37,7 @@ Welcome to my GitHub, where it works on my machine  ¯\\_(ツ)_/¯
 
 <details>
 <p>
-  <img src="https://github.com/ywang0789/ywang0789/blob/main/assets/cry.gif" width="32px">Please hire me, I'm poor<img src="https://github.com/ywang0789/ywang0789/blob/main/assets/cry.gif" width="32px">
+  <img src="https://github.com/ywang0789/ywang0789/blob/main/assets/cry.gif" width="32px">Please hire me<img src="https://github.com/ywang0789/ywang0789/blob/main/assets/cry.gif" width="32px">
 </p>
 </details>
 
