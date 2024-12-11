@@ -31,6 +31,7 @@ Welcome to my GitHub!
 
 
 ### Testing Tools
+![image](https://img.shields.io/badge/Pytest-%23333333?style=for-the-badge&logo=pytest)
 ![image](https://img.shields.io/badge/APACHE%20JMETER-%23333333?style=for-the-badge&logo=apachejmeter)
 ![image](https://img.shields.io/badge/SELENIUM-%23333333?style=for-the-badge&logo=selenium)
 ![image](https://img.shields.io/badge/MSTEST-%23333333?style=for-the-badge&logo=microsoft)
